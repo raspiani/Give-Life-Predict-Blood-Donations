@@ -2,6 +2,7 @@
 Project Give Life: Predict Blood Donations
 
 Project Description
+
 "Blood is the most precious gift that anyone can give to another person — the gift of life." ~ World Health Organization
 
 Forecasting blood supply is a serious and recurrent problem for blood collection managers: in January 2019, "Nationwide, the Red Cross saw 27,000 fewer blood donations over the holidays than they see at other times of the year." Machine learning can be used to learn the patterns in the data to help to predict future blood donations and therefore save more lives.
@@ -11,6 +12,7 @@ In this Project, you will work with data collected from the donor database of Bl
 To complete this Project, you need to know some Python, pandas, and logistic regression. We recommend one is familiar with the content in DataCamp's Manipulating DataFrames with pandas, Preprocessing for Machine Learning in Python, and Foundations of Predictive Analytics in Python (Part 1) courses.
 
 Project Tasks
+
 1. Inspecting transfusion.data file
 2. Loading the blood donations data
 3. Inspecting transfusion DataFrame
